@@ -1,0 +1,13 @@
+
+torch
+transformers
+sentence-transformers
+langchain
+langchain_community
+langchain-huggingface
+langchain_experimental
+langchain_chroma
+langchainhub
+streamlit
+
+#pip install torch==2.6.0 torchvision==0.20.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
